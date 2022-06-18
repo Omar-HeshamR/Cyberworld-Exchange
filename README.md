@@ -15,7 +15,7 @@ Runs the built app in production mode.
 
 *To make your own follow the steps below and maksu sure to use npm n in your terminal:*
 
-**GENERAL STEPS OF WORK ::**
+# GENERAL STEPS OF WORK 
 
 1- create-next-app@latest to make my app using next techonology
 2- download sanity for back-end purposes and to store datasets
