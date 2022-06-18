@@ -6,13 +6,17 @@
 
 *npm run dev*
 Starts the development server.
+
 *npm run build*
 Builds the app for production.
+
 *npm start*
 Runs the built app in production mode.
 
 *To make your own follow the steps below and maksu sure to use npm n in your terminal:*
+
 **GENERAL STEPS OF WORK ::**
+
 1- create-next-app@latest to make my app using next techonology
 2- download sanity for back-end purposes and to store datasets
 3- make schemas for sanity coins, input some and use our own test contract addresses
