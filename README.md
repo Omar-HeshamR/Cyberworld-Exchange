@@ -15,19 +15,33 @@ Runs the built app in production mode.
 
 *To make your own follow the steps below and maksu sure to use npm n in your terminal:*
 
+*linked in this repo is my code, excluding the dependencies and downloadble moudles, which will include npm, sanity, thirdweb, react:*
+
+
 # GENERAL STEPS OF WORK 
 
 1- create-next-app@latest to make my app using next techonology
+
 2- download sanity for back-end purposes and to store datasets
+
 3- make schemas for sanity coins, input some and use our own test contract addresses
+
 4- install sanity client for front end and link it with project ID
+
 5- set up thirdweb and link it with metamask and give my self rinkebay fake tokens
+
 6- add my fake coins contract adresses to sanity
+
 7- use thirdweb to be able to connect wallet and for token forging
-8- Start on Front-end of website
+
+8- Start on Front-end of website, Using CSS, React, Javascript or whateverelse you want.
+
 9- Dashboared of website and finish dashboard front end.
+
 10- Using Sanity database and thirweb minted tokens connect to dashboard portfolio balance
+
 11- Work on send and trade buttons and add thier modals and connect them to thirdweb and sanity
+
 12- Have a functional website that allows you to fully trade cryptocurrency!
 
 # Screenshots of webpage
