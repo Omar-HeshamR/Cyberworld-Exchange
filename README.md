@@ -47,7 +47,6 @@ Runs the built app in production mode.
 # Screenshots of webpage
 ![Main Page](https://user-images.githubusercontent.com/106610412/174415263-c1e50bd9-ff00-43f1-a818-120b6bafce19.PNG)
 ![Main Page 3](https://user-images.githubusercontent.com/106610412/174415272-56014a0d-f730-4b34-b82d-7be986c86702.PNG)
-![Main Page 2](https://user-images.githubusercontent.com/106610412/174415276-34219441-7bfe-41e9-b287-fad00f537a51.PNG)
 
 # Screenshots of functionalities
 ![Buy- Crypto 2](https://user-images.githubusercontent.com/106610412/174415301-865949ca-fa31-4682-9a06-975782c47b02.PNG)
