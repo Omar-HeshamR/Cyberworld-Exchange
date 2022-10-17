@@ -1,6 +1,6 @@
 # Cyberworld-Exchange
 - A cryptocurrency exchange
-- An individually designed cryptocurrency exchange using next.js, Java Script and third web technology for back-end, and used React, CSS, and Java Script for the web page front end. Used Sanity as a database and the etheurem rinkebey test for facilatiating transactions and on-blockchain activties.
+- An individually designed cryptocurrency exchange using next.js, node.js, Java Script and third web technology for back-end, and used React, CSS, and Java Script for the web page front end. Used Sanity as a database and the etheurem rinkebey test for facilatiating transactions and on-blockchain activties.
 
 # Guide
 
